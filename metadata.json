@@ -1,0 +1,6 @@
+{
+  "name": "Zen Peripherals Hub: Input & Output Devices",
+  "description": "An interactive, educational, and high-fidelity Webpage dedicated to Input and Output Devices. Includes 3D flip cards, interactive flows, quiz systems, and customizable ambient backdrop controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
